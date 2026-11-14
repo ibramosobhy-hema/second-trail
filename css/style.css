@@ -1,0 +1,13 @@
+/* a{
+color:black;
+} */
+.footer-home {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: green;
+  color: #fff;
+  border-radius: 170px 170px 0px 0px;
+}
+.footer-home a {
+  color: #fff;
+}
